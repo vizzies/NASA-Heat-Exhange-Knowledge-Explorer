@@ -1,0 +1,1 @@
+This folder contains a small sample of datafiles for demonstration and test purposes. The full dataset is available in the Hackathon MS Teams Team, under the files section in the "General" channel. 
