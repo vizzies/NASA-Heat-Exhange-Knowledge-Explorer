@@ -1,1 +1,0 @@
-# grcml-challenge-a-starter
