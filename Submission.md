@@ -37,3 +37,8 @@
 * Kelci Mensah, GRC, Intern, [kelci.mensah@nasa.gov](kelci.mensah@nasa.gov)
 * Samantha "Sam" Stesch, GRC, Intern, [samantha.g.stesch@nasa.gov](samantha.g.stesch@nasa.gov)
 * Alexander Wong, GRC, Intern, [alexander.wong@nasa.gov](alexander.wong@nasa.gov)
+
+## Further Resources
+* [LDA Topic Modeling (LARC)](https://visualization.larc.nasa.gov/dash/notebooks/LDA_with_Bokeh)
+* [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
+* [NLTK Documentation](https://www.nltk.org/)
