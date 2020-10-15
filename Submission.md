@@ -24,8 +24,15 @@
 	*
 
 ## Direction of Future Work
-* Opportunities for improvement and/or future work that could add to results
-	* Noun sequencing, topic modeling, 
+With more time, additional features the team will would like to explore:
+* Processing and topic modeling using noun sequences and noun-modifier pairing from Watson Explorer
+* Using Excalibur to speed up extracting tables by providing a GUI so users can more easily select relevant regions within PDFs
+* Adjusting parameters within Camelot to improve table extraction
+* User intuitive interface to for easier PDF cleanup, and improved interface for understanding topic modeling results
+* Command line interface to automate PDF cleanup and topic modeling
+* Additional comparison and similarity checking. This could include additional unsupervised learning such as word embeddings and word vectors to identify additional similarities between papers.
+* Applying PCA or dimensionality reduction as a feature engineering step to improve topic modeling results
+
 
 ## Contributors
 
