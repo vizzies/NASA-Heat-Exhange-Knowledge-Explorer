@@ -9,13 +9,13 @@
 * Include critical design and/or implementation decisions
 
 ## Dependencies and Outputs  
-* Input Dependencies
+* Dependencies
 	* Generated the.txt version of each PDF
 	* [PDF Parser](https://github.com/vizzies/grcml-challenge-a-starter/blob/main/Scripts/batch_pdf_parser.py)
 	* [Python Element Tree Parser](https://docs.python.org/3/library/xml.etree.elementtree.html)
 
-* Artificats produced
-	*
+* Artifacts (Output) Produced
+	* [Combined Output Repository](https://github.com/vizzies/grcml-challenge-a-starter/blob/main/Processed/Combined_Output.txt)
 
 ## Integration / Use Cases  
 * Broad applications, how can project address other problems (try to abstract function of code/concept and imagine other uses)
