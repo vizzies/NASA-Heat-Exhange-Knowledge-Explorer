@@ -11,6 +11,9 @@
 ## Dependencies and Outputs  
 * Input Dependencies
 	* Generated the.txt version of each PDF
+	* [PDF Parser](https://github.com/vizzies/grcml-challenge-a-starter/blob/main/Scripts/batch_pdf_parser.py)
+	* [Python Element Tree Parser](https://docs.python.org/3/library/xml.etree.elementtree.html)
+
 * Artificats produced
 	*
 
